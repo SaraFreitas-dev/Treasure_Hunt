@@ -2,7 +2,7 @@ This is a treasure hunt game, built with Python in the old fashioned way, with A
 To play, just open the file "playASCII.bat". Feel free to use it and enjoy !
 
 
-The ASCII ART was copied from the following website:
+The ASCII ART was inspired from the following website:
 https://ascii.co.uk/art
 
 
