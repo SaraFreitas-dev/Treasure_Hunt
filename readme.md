@@ -1,12 +1,17 @@
-This is a treasure hunt game, built with Python in the old fashioned way, with ASCII art. The game, in the typical old school way, should be played in the terminal. 
-To play, just open the file "playASCII.bat". Feel free to use it and enjoy !
+# TREASURE HUNT GAME
 
+This is a treasure hunt game, built with Python in the old-fashioned way, featuring ASCII art. The game, in typical old-school fashion, should be played in the terminal.
 
-The ASCII ART was inspired from the following website:
-https://ascii.co.uk/art
+## How to Play
 
+To play, just download this folder and open the file `play_Treasure.bat`. Feel free to use it and enjoy!
 
-The game has the following look:
+## ASCII Art Inspiration
+
+The ASCII art was inspired by the following website:
+[https://ascii.co.uk/art](https://ascii.co.uk/art)
+
+## Game Preview
 
     *******************************************************************************
               |                   |                  |                     |
@@ -26,10 +31,11 @@ The game has the following look:
     ____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
     /______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
     ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
-    /______/______/______/______/______/______/______/______/______/______/[_______
+    /______/______/______/______/______/______/______/______/______/______/________
     *******************************************************************************
     
 
 Welcome to Treasure Island! 
 Your mission is to find the treasure.
 Click enter to start.
+
